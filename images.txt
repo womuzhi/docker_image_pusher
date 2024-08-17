@@ -1,5 +1,11 @@
 #支持私库
+
+#rocketmq相关
+foxiswho/rocketmq:server
+foxiswho/rocketmq:broker
+styletang/rocketmq-console-ng
+
 #canal
-canal/canal-server:v1.1.5
+#canal/canal-server:v1.1.5
 #mysql
-docker.io/mysql:8.0.29
+#docker.io/mysql:8.0.29
