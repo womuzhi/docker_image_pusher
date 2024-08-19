@@ -1,9 +1,12 @@
 #支持私库
 
+#xxl-job
+xxl-job-admin:2.4.0
+
 #rocketmq相关
-foxiswho/rocketmq:server
-foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng
+#foxiswho/rocketmq:server
+#foxiswho/rocketmq:broker
+#styletang/rocketmq-console-ng
 
 #canal
 #canal/canal-server:v1.1.5
