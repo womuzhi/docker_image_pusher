@@ -1,7 +1,7 @@
 #支持私库
 
 #xxl-job
-xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.4.0
 
 #rocketmq相关
 #foxiswho/rocketmq:server
