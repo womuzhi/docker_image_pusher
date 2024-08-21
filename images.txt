@@ -1,7 +1,9 @@
 #支持私库
+#es
+elasticsearch:7.14.0
 
 #xxl-job
-xuxueli/xxl-job-admin:2.4.0
+#xuxueli/xxl-job-admin:2.4.0
 
 #rocketmq相关
 #foxiswho/rocketmq:server
