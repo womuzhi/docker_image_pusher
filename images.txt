@@ -1,6 +1,9 @@
 #支持私库
+#nacos
+m.daocloud.io/docker.io/nacos/nacos-server:v2.2.0
+
 #es
-elasticsearch:7.14.0
+#elasticsearch:7.14.0
 
 #xxl-job
 #xuxueli/xxl-job-admin:2.4.0
