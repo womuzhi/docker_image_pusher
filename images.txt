@@ -19,4 +19,7 @@ m.daocloud.io/docker.io/nacos/nacos-server:v2.2.0
 #mysql
 #docker.io/mysql:8.0.29
 
-emqx/emqx-edge:1.4.0
+#emqx/emqx-edge:1.4.0
+
+#redis
+redis:8.6.3
