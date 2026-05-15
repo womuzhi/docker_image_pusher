@@ -1,7 +1,7 @@
 #支持私库
 
 #nacos
-m.daocloud.io/docker.io/nacos/nacos-server:v2.2.0
+#m.daocloud.io/docker.io/nacos/nacos-server:v2.2.0
 
 #es
 #elasticsearch:7.14.0
@@ -24,5 +24,5 @@ m.daocloud.io/docker.io/nacos/nacos-server:v2.2.0
 #redis
 #docker.io/redis:8.6.3
 
-ollama/ollama:latest
+#ollama/ollama:latest
 qdrant/qdran:v1.14.1
