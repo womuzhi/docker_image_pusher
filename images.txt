@@ -14,10 +14,12 @@
 #foxiswho/rocketmq:broker
 #styletang/rocketmq-console-ng
 # 只需要一个
-rabbitmq:4.3.1-management
+#rabbitmq:4.3.1-management
 
 #canal
 #canal/canal-server:v1.1.5
+canal/canal-server:v1.1.7
+
 #mysql
 #docker.io/mysql:8.0.29
 
