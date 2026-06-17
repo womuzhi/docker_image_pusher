@@ -18,7 +18,8 @@
 
 #canal
 #canal/canal-server:v1.1.5
-canal/canal-server:v1.1.7
+#canal/canal-server:v1.1.7
+canal/canal-server:v1.1.8
 
 #mysql
 #docker.io/mysql:8.0.29
